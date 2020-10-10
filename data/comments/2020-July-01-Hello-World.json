@@ -126,5 +126,13 @@
     "content": "halo!",
     "createdAt": 1602311255601,
     "id": "z1GiwrZ3gRfU1qPBeIH8akhTepRXS3"
+  },
+  {
+    "userId": "local-0.8759479926878597",
+    "name": "0.8759479926878597",
+    "avatar": "https://api.adorable.io/avatars/128/0.8759479926878597.png",
+    "content": "0.4893613250000708",
+    "createdAt": 1602311600469,
+    "id": "bl-0HsdWQJCgAbOyTdBZC--XdqpNr9"
   }
 ]
